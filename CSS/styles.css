@@ -1,0 +1,116 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  /* font-size: 14px; */
+}
+
+h1 {
+  margin-top: 50px;
+  color: #5f939a;
+  font-family: "Great Vibes", cursive;
+  font-size: 500%;
+  margin-block-end: 30pxpx;
+}
+h2 {
+  color: #5f939a;
+  font-family: "Montserrat", sans-serif;
+  margin: 50px auto;
+}
+h3 {
+  color: #5f939a;
+  font-family: "Montserrat", sans-serif;
+  margin: 50px auto;
+}
+p {
+  color: #45b29a;
+}
+.first-pargh {
+  font-size: 180%;
+  font-weight: normal;
+  margin-top: 0px;
+  margin-block-end: 30px;
+}
+
+.Top_Container {
+  padding-top: 100px;
+  background-color: #e4f9f5;
+  margin-top: 0px;
+}
+.mostafa-photo {
+  margin-top: 20px;
+  width: 15%;
+}
+.skill-photo {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.webweb-programer-photo {
+  padding-top: -1px;
+}
+.heart1 {
+  width: 300px;
+  position: absolute;
+  left: 561px;
+  top: 18px;
+}
+.heart2 {
+  width: 300px;
+  position: absolute;
+  top: 157px;
+  right: 582px;
+}
+hr {
+  border-style: none;
+  border-top: 5px dotted rgba(128, 128, 128, 0.514);
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.BUTTON_IFY {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 15px;
+  background-color: #45b29a;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 50px auto;
+}
+.bottom-container {
+  clear: both;
+  position: relative;
+  height: 200px;
+  margin-top: 0px;
+  background-color: #66bfbf;
+}
+.fotter-container {
+  padding: 50px;
+}
+a {
+  color: #11999e;
+}
+.skills {
+  font-family: "Merriweather", serif;
+}
