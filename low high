@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="o8wPPrHcSiFa-XzaWiyc">
-    <mxGraphModel dx="1143" dy="171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFF4C3" math="0" shadow="0">
+    <mxGraphModel dx="1437" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFF4C3" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1184,13 +1184,13 @@
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1076" y="1203" width="72.5" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="yeOB-L2PuS7dKz4LzWPi-28" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;6k LE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1102.5" y="1201.5" width="19.5" height="10" as="geometry" />
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-28" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;12k LE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1102.5" y="1201.5" width="27.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1092.25" y="1220" width="40" height="7" as="geometry" />
         </mxCell>
-        <mxCell id="yeOB-L2PuS7dKz4LzWPi-30" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;2 employees *3k&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-30" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;4 employees *3k&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1097.25" y="1217" width="32" height="7" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-31" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 234), rgb(237, 237, 237)); font-size: 2px;&quot;&gt;&lt;b style=&quot;&quot;&gt;st&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
