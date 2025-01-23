@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="o8wPPrHcSiFa-XzaWiyc">
-    <mxGraphModel dx="2450" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFF4C3" math="0" shadow="0">
+    <mxGraphModel dx="1776" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFF4C3" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -910,7 +910,7 @@
           <mxGeometry x="208" y="1356.5" width="39" height="9" as="geometry" />
         </mxCell>
         <mxCell id="Zj-JpYb6SGKCY5xiMF8X-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="478" y="1135.5" width="904" height="18" as="geometry" />
+          <mxGeometry x="478" y="1135.5" width="1040" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Zj-JpYb6SGKCY5xiMF8X-88" value="Expencess on the 1000 Client service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="788.25" y="1129.5" width="212.5" height="30" as="geometry" />
@@ -1234,10 +1234,10 @@
           <mxGeometry x="189" y="1817" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-180" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1387" y="1172.25" width="90" height="18" as="geometry" />
+          <mxGeometry x="1395" y="1172.37" width="90" height="18" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-181" value="Development" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1395" y="1172.25" width="74" height="17" as="geometry" />
+          <mxGeometry x="1403" y="1172.37" width="74" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
