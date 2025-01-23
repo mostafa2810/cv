@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="o8wPPrHcSiFa-XzaWiyc">
-    <mxGraphModel dx="1133" dy="427" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFB570" math="0" shadow="0">
+    <mxGraphModel dx="1754" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFB570" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Zj-JpYb6SGKCY5xiMF8X-253" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="-136" y="1013" width="3651" height="2012" as="geometry" />
+          <mxGeometry x="-136" y="1013" width="3651" height="2843" as="geometry" />
         </mxCell>
         <mxCell id="Zj-JpYb6SGKCY5xiMF8X-333" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9226;" parent="1" vertex="1">
           <mxGeometry x="-129" y="1013" width="3657" height="58" as="geometry" />
@@ -1232,18 +1232,6 @@
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-171" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Case 2 (with maintaining) + Operational Cost&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="668" y="1767" width="213" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yeOB-L2PuS7dKz4LzWPi-175" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Monthly Total Income :&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="227" y="1894" width="171" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yeOB-L2PuS7dKz4LzWPi-176" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1M LE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1894" width="47" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yeOB-L2PuS7dKz4LzWPi-177" value="&lt;font style=&quot;font-size: 38px; color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;-&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF9226;" vertex="1" parent="1">
-          <mxGeometry x="452" y="1929" width="47" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="yeOB-L2PuS7dKz4LzWPi-178" value="&lt;font style=&quot;color: rgb(255, 128, 0); font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;400k development&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1924" width="152" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-180" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1502" y="1192.37" width="90" height="18" as="geometry" />
         </mxCell>
@@ -1775,116 +1763,149 @@
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-343" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 234), rgb(237, 237, 237)); font-size: 2px;&quot;&gt;&lt;b style=&quot;&quot;&gt;mobile app&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
           <mxGeometry x="2484.62" y="1313" width="29" as="geometry" />
         </mxCell>
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-399" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="173" y="1834" width="325" height="1317" as="geometry" />
+        </mxCell>
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-175" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Monthly Total Income :&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="209" y="1834" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-176" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1M LE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1834" width="47" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-177" value="&lt;font style=&quot;font-size: 38px; color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;-&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF9226;" vertex="1" parent="1">
+          <mxGeometry x="434" y="1869" width="47" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-178" value="&lt;font style=&quot;color: rgb(255, 128, 0); font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;400k development&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217" y="1864" width="152" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-347" value="&lt;font style=&quot;color: rgb(255, 128, 0); font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;100k markting commision&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1960" width="222" height="30" as="geometry" />
+          <mxGeometry x="217" y="1900" width="222" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-348" value="&lt;font style=&quot;font-size: 38px; color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;-&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF9226;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1965" width="47" height="15" as="geometry" />
+          <mxGeometry x="435" y="1905" width="47" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-349" value="&lt;font style=&quot;color: rgb(255, 128, 0); font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;12k employment&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="238" y="1990" width="222" height="30" as="geometry" />
+          <mxGeometry x="220" y="1930" width="222" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-350" value="&lt;font style=&quot;color: rgb(255, 128, 0); font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;6k montage&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="238" y="2023" width="222" height="30" as="geometry" />
+          <mxGeometry x="220" y="1963" width="222" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-351" value="&lt;font style=&quot;font-size: 38px; color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;-&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF9226;" vertex="1" parent="1">
-          <mxGeometry x="452" y="1993" width="47" height="15" as="geometry" />
+          <mxGeometry x="434" y="1933" width="47" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-352" value="&lt;font style=&quot;font-size: 34px; color: light-dark(rgb(34, 209, 31), rgb(237, 237, 237));&quot;&gt;&lt;b style=&quot;&quot;&gt;482,000 LE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="246.5" y="2063" width="222" height="30" as="geometry" />
+          <mxGeometry x="228.5" y="2003" width="222" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-353" value="&lt;font style=&quot;font-size: 38px; color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;-&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF9226;" vertex="1" parent="1">
-          <mxGeometry x="452" y="2028" width="47" height="15" as="geometry" />
+          <mxGeometry x="434" y="1968" width="47" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-354" value="&lt;font style=&quot;font-size: 24px; color: rgb(255, 0, 128);&quot;&gt;First month&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="52.5" y="1975" width="222" height="30" as="geometry" />
+          <mxGeometry x="34.5" y="1915" width="222" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-355" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#222222;" vertex="1" parent="1">
-          <mxGeometry x="233" y="2055" width="249" height="1" as="geometry" />
+          <mxGeometry x="215" y="1995" width="249" height="1" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-357" value="&lt;font style=&quot;font-size: 15px; color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;background-color: rgb(26, 26, 26);&quot;&gt;Mostafa Helaly&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="179" y="2189" width="171" height="30" as="geometry" />
+          <mxGeometry x="181" y="2050" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-358" value="&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;background-color: rgb(26, 26, 26);&quot;&gt;Rashad&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="315" y="2189" width="171" height="30" as="geometry" />
+          <mxGeometry x="317" y="2050" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-359" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;241,000 LE&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="182.5" y="2221" width="171" height="30" as="geometry" />
+          <mxGeometry x="184.5" y="2082" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-360" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;241,000 LE&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="2219" width="171" height="30" as="geometry" />
+          <mxGeometry x="319.5" y="2080" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-361" value="&lt;font style=&quot;font-size: 38px; color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;-&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF9226;" vertex="1" parent="1">
-          <mxGeometry x="286" y="2246" width="47" height="15" as="geometry" />
+          <mxGeometry x="288" y="2107" width="47" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-362" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px; color: rgb(255, 153, 153);&quot;&gt;whatever rashad prepaid&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="203.5" y="2249" width="110" height="30" as="geometry" />
+          <mxGeometry x="205.5" y="2110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-364" value="&lt;font style=&quot;font-size: 24px; color: rgb(255, 0, 128);&quot;&gt;Secouind month&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="2428" width="222" height="30" as="geometry" />
+          <mxGeometry x="32" y="2264" width="222" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-365" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Monthly Total Income :&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="205" y="2392" width="171" height="30" as="geometry" />
+          <mxGeometry x="187" y="2228" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-367" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1M LE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="383" y="2392" width="47" height="30" as="geometry" />
+          <mxGeometry x="365" y="2228" width="47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-368" value="&lt;font style=&quot;font-size: 15px; color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;background-color: rgb(26, 26, 26);&quot;&gt;Mostafa Helaly&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="225.5" y="2434" width="113.5" height="30" as="geometry" />
+          <mxGeometry x="207.5" y="2270" width="113.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-369" value="&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;background-color: rgb(26, 26, 26);&quot;&gt;Rashad&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="325.5" y="2434" width="171" height="30" as="geometry" />
+          <mxGeometry x="307.5" y="2270" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-370" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;500k LE&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="243" y="2464" width="68" height="30" as="geometry" />
+          <mxGeometry x="225" y="2300" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-371" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;500k LE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="328" y="2464" width="171" height="30" as="geometry" />
+          <mxGeometry x="310" y="2300" width="171" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yeOB-L2PuS7dKz4LzWPi-376" value="&lt;font style=&quot;font-size: 24px; color: rgb(255, 0, 128);&quot;&gt;Secouind month&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="52.5" y="2655" width="222" height="30" as="geometry" />
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-376" value="&lt;font style=&quot;font-size: 24px; color: rgb(255, 0, 128);&quot;&gt;Third&amp;nbsp; month&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="34.5" y="2491" width="222" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-377" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Monthly Total Income :&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="2619" width="171" height="30" as="geometry" />
+          <mxGeometry x="189.5" y="2455" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-378" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1M LE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="385.5" y="2619" width="47" height="30" as="geometry" />
+          <mxGeometry x="367.5" y="2455" width="47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-379" value="&lt;font style=&quot;font-size: 15px; color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;background-color: rgb(26, 26, 26);&quot;&gt;Mostafa Helaly&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="228" y="2661" width="113.5" height="30" as="geometry" />
+          <mxGeometry x="210" y="2497" width="113.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-380" value="&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;background-color: rgb(26, 26, 26);&quot;&gt;Rashad&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="328" y="2661" width="171" height="30" as="geometry" />
+          <mxGeometry x="310" y="2497" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-381" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;500k LE&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="245.5" y="2691" width="68" height="30" as="geometry" />
+          <mxGeometry x="227.5" y="2527" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-382" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;500k LE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="330.5" y="2691" width="171" height="30" as="geometry" />
+          <mxGeometry x="312.5" y="2527" width="171" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yeOB-L2PuS7dKz4LzWPi-383" value="&lt;font style=&quot;font-size: 24px; color: rgb(255, 0, 128);&quot;&gt;Secouind month&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="48" y="2895" width="222" height="30" as="geometry" />
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-383" value="&lt;font style=&quot;font-size: 24px; color: rgb(255, 0, 128);&quot;&gt;Forth month&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2731" width="222" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-384" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Monthly Total Income :&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="203" y="2859" width="171" height="30" as="geometry" />
+          <mxGeometry x="185" y="2695" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-385" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1M LE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="381" y="2859" width="47" height="30" as="geometry" />
+          <mxGeometry x="363" y="2695" width="47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-386" value="&lt;font style=&quot;font-size: 15px; color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;background-color: rgb(26, 26, 26);&quot;&gt;Mostafa Helaly&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="223.5" y="2901" width="113.5" height="30" as="geometry" />
+          <mxGeometry x="205.5" y="2737" width="113.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-387" value="&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;background-color: rgb(26, 26, 26);&quot;&gt;Rashad&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="323.5" y="2901" width="171" height="30" as="geometry" />
+          <mxGeometry x="305.5" y="2737" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-388" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;500k LE&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="241" y="2931" width="68" height="30" as="geometry" />
+          <mxGeometry x="223" y="2767" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yeOB-L2PuS7dKz4LzWPi-389" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;500k LE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="326" y="2931" width="171" height="30" as="geometry" />
+          <mxGeometry x="308" y="2767" width="171" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yeOB-L2PuS7dKz4LzWPi-390" value="&lt;font style=&quot;font-size: 24px; color: rgb(255, 0, 128);&quot;&gt;Secouind month&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="52.5" y="2189" width="222" height="30" as="geometry" />
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-391" value="&lt;font style=&quot;font-size: 24px; color: rgb(255, 0, 128);&quot;&gt;Fifth month&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2948" width="222" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-392" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Monthly Total Income :&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="185" y="2912" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-393" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1M LE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="363" y="2912" width="47" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-394" value="&lt;font style=&quot;font-size: 15px; color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;background-color: rgb(26, 26, 26);&quot;&gt;Mostafa Helaly&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="205.5" y="2954" width="113.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-395" value="&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;background-color: rgb(26, 26, 26);&quot;&gt;Rashad&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="2954" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-396" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;500k LE&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="223" y="2984" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yeOB-L2PuS7dKz4LzWPi-397" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;500k LE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="308" y="2984" width="171" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
