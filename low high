@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="Page-1" id="o8wPPrHcSiFa-XzaWiyc">
-    <mxGraphModel dx="840" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFB570" math="0" shadow="0">
+    <mxGraphModel dx="1165" dy="1245" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFB570" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2733,7 +2733,7 @@
           <mxGeometry x="262" y="2435" width="180" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Pj93kuVLiWiXP-DM8N5f-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-198" y="2254" width="230" height="264" as="geometry" />
+          <mxGeometry x="-198" y="2352" width="230" height="123" as="geometry" />
         </mxCell>
         <mxCell id="Pj93kuVLiWiXP-DM8N5f-60" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;Annual Net Income&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="301.38" y="2474.63" width="99.75" height="16.5" as="geometry" />
